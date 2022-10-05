@@ -6,4 +6,4 @@ ADD requirments.txt .
 
 RUN pip install -r requirments.txt
 
-CMD ["python" , "./main.py"]
+CMD ["python" , "./email_api.py"]
