@@ -1,6 +1,6 @@
 FROM python:3.8-alpine
 
-ADD main.py .
+ADD email_api.py .
 
 ADD requirments.txt .
 
