@@ -4,6 +4,6 @@ ADD email_api.py .
 
 ADD requirments.txt .
 
-RUN pip install -r requirments.txt
+RUN pip install -r requirements.txt
 
 CMD ["python" , "./email_api.py"]
